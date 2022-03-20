@@ -1,6 +1,6 @@
 ## About 
 
-This is a project for students to improve their front-end skill by building various components and simple JS games.
+This is a project for students to improve their front-end skills by building various components and simple JS games.
 <a href="https://www.figma.com/file/uaVXnAQh9QxVsUD1RcQEbt/Friday-Challenge?node-id=1%3A2">Figma design</a>
 
 ## Components
