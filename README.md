@@ -13,4 +13,4 @@ This is a project for students to improve their front-end skills by building var
 
 ## Launch
 
-<a href="https://deebee123.github.io/FC-php02-14/">Live project</a>
+<a href="https://deebee123.github.io/FC-1/">Live project</a>
